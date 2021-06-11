@@ -1,5 +1,5 @@
 html body{
-    background-color: slategrey;
+    background-color: rgb(202, 176, 218);
 }
 body{
     text-align: center;
@@ -7,4 +7,7 @@ body{
 p{
    font-size: medium; 
    font-style: inherit;
+}
+.contain#marketing{
+    padding-top: 200px;
 }
