@@ -1,0 +1,10 @@
+html body{
+    background-color: slategrey;
+}
+body{
+    text-align: center;
+}
+p{
+   font-size: medium; 
+   font-style: inherit;
+}
