@@ -1,5 +1,6 @@
 html body{
     background-color: rgb(202, 176, 218);
+    padding: 10px;
 }
 body{
     text-align: center;
@@ -8,6 +9,12 @@ p{
    font-size: medium; 
    font-style: inherit;
 }
-.contain#marketing{
-    padding-top: 200px;
+.container{
+    padding-top: 20px;
+}
+.container2{
+    text-align: left;
+}
+.rodapé{
+    text-align: center;
 }
