@@ -2,19 +2,15 @@
 
 - here is a small project from a book, now transcribed on a web page.
 
-------------------------------------------------------------------------------
 <h1 text-algin="center">:warning: Under development :warning:</h1>
 -  this project is still under development, but it can already be seen through this link below 
 
------------------------------------------------------------------------------- 
 <h1>Tools being used</h1>
 
 - [![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 - [![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 - [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 - [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-
-------------------------------------------------------------------------------
 
 <h1>Contact<h1>
 
