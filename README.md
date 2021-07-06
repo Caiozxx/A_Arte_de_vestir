@@ -2,4 +2,4 @@
 
 - here is a small project from a book, now transcribed on a web page.
 
-# :waring:
+:waring:
